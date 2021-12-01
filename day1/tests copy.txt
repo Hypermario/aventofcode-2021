@@ -1,0 +1,18 @@
+199 a
+200 a b
+208 a b c
+210   b c d
+200 e   c d
+207 e f   d
+240 e f g
+269   f g h
+260     g h
+263       h
+
+ab +
+bc -
+cd -
+de +
+ef +
+fg +
+gh +
